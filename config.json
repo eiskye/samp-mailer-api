@@ -1,0 +1,12 @@
+{
+    "server": {
+        "bind_addr":     "7788"
+    },
+
+    "smtp": {
+        "smtp_server":   "smtp.gmail.com",
+        "smtp_port":     25,
+        "smtp_email":    "xxxxxxx@xxx.xx",
+        "smtp_password": "**********"
+    }
+}
